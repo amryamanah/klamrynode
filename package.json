@@ -1,0 +1,16 @@
+{
+  "name": "klamryrouter",
+  "version": "1.0.0",
+  "description": "Node version of klamryrouter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/gateway": "^2.2.1",
+    "@apollo/server": "^4.2.2",
+    "graphql": "^16.6.0"
+  }
+}
